@@ -1,0 +1,8 @@
+.sidebar {
+  float: right;
+}
+
+.column {
+  width: 500px;
+  float: left;
+}
