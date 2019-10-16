@@ -1,8 +1,14 @@
 .sidebar {
   float: right;
+  border: 2px dashed pink;
+  margin: 12px;
+  padding: 5px;
 }
 
 .column {
-  width: 500px;
+  width: 600px;
   float: left;
+  border: 2px solid black;
+  margin: 12px;
+  padding: 5px;
 }
